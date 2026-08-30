@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "checkedAtKST": "2026. 08. 28. 06:59:15",
+  "checkedAtKST": "2026. 08. 31. 07:00:03",
   "origin": {
     "name": "권광로123번길 46",
     "longitude": 127.0282599,
@@ -14,30 +14,30 @@
   "routes": {
     "traoptimal": {
       "label": "실시간 최적경로",
-      "distanceKm": 26.8,
-      "durationMin": 36.8,
+      "distanceKm": 26.3,
+      "durationMin": 42.2,
       "tollFare": 1360,
-      "taxiFare": 26620,
-      "fuelPrice": 3562,
-      "departureTime": "2026-08-28T06:59:12",
+      "taxiFare": 27820,
+      "fuelPrice": 3501,
+      "departureTime": "2026-08-31T07:00:00",
       "sections": [
         {
-          "name": "동수원고가도로",
+          "name": "권광로",
           "distanceKm": 1.4,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 52
+          "speedKmh": 28
         },
         {
-          "name": "창룡대로",
+          "name": "광교로",
           "distanceKm": 1.7,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 23
+          "speedKmh": 14
         },
         {
           "name": "영동고속도로",
-          "distanceKm": 17.5,
+          "distanceKm": 17.3,
           "congestionCode": 1,
           "congestion": "원활",
           "speedKmh": 64
@@ -46,30 +46,30 @@
     },
     "trafast": {
       "label": "실시간 빠른길",
-      "distanceKm": 26.8,
-      "durationMin": 36.8,
+      "distanceKm": 26.3,
+      "durationMin": 42.9,
       "tollFare": 1360,
-      "taxiFare": 26620,
-      "fuelPrice": 3562,
-      "departureTime": "2026-08-28T06:59:13",
+      "taxiFare": 27920,
+      "fuelPrice": 3501,
+      "departureTime": "2026-08-31T07:00:01",
       "sections": [
         {
-          "name": "동수원고가도로",
+          "name": "권광로",
           "distanceKm": 1.4,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 52
+          "speedKmh": 27
         },
         {
-          "name": "창룡대로",
+          "name": "광교로",
           "distanceKm": 1.7,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 23
+          "speedKmh": 13
         },
         {
           "name": "영동고속도로",
-          "distanceKm": 17.5,
+          "distanceKm": 17.3,
           "congestionCode": 1,
           "congestion": "원활",
           "speedKmh": 64
@@ -79,32 +79,32 @@
     "traavoidtoll": {
       "label": "무료도로 우선",
       "distanceKm": 23.4,
-      "durationMin": 37.4,
+      "durationMin": 41.6,
       "tollFare": 0,
-      "taxiFare": 24520,
-      "fuelPrice": 3110,
-      "departureTime": "2026-08-28T06:59:15",
+      "taxiFare": 24820,
+      "fuelPrice": 3109,
+      "departureTime": "2026-08-31T07:00:02",
       "sections": [
         {
           "name": "동수원로",
           "distanceKm": 1.5,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 37
+          "speedKmh": 35
         },
         {
           "name": "광교중앙로",
           "distanceKm": 2.6,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 27
+          "speedKmh": 25
         },
         {
           "name": "석성로",
           "distanceKm": 10.5,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 46
+          "speedKmh": 40
         }
       ]
     }
