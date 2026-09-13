@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "checkedAtKST": "2026. 09. 11. 06:59:37",
+  "checkedAtKST": "2026. 09. 14. 06:59:22",
   "origin": {
     "name": "권광로123번길 46",
     "longitude": 127.0282599,
@@ -14,76 +14,12 @@
   "routes": {
     "traoptimal": {
       "label": "실시간 최적경로",
-      "distanceKm": 26.8,
-      "durationMin": 35.5,
-      "tollFare": 1360,
-      "taxiFare": 26620,
-      "fuelPrice": 3558,
-      "departureTime": "2026-09-11T06:59:34",
-      "sections": [
-        {
-          "name": "동수원고가도로",
-          "distanceKm": 1.4,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 53
-        },
-        {
-          "name": "창룡대로",
-          "distanceKm": 1.7,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 22
-        },
-        {
-          "name": "영동고속도로",
-          "distanceKm": 17.5,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 72
-        }
-      ]
-    },
-    "trafast": {
-      "label": "실시간 빠른길",
-      "distanceKm": 26.8,
-      "durationMin": 35.5,
-      "tollFare": 1360,
-      "taxiFare": 26620,
-      "fuelPrice": 3558,
-      "departureTime": "2026-09-11T06:59:35",
-      "sections": [
-        {
-          "name": "동수원고가도로",
-          "distanceKm": 1.4,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 53
-        },
-        {
-          "name": "창룡대로",
-          "distanceKm": 1.7,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 22
-        },
-        {
-          "name": "영동고속도로",
-          "distanceKm": 17.5,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 72
-        }
-      ]
-    },
-    "traavoidtoll": {
-      "label": "무료도로 우선",
       "distanceKm": 23.4,
-      "durationMin": 39,
+      "durationMin": 41.3,
       "tollFare": 0,
-      "taxiFare": 24520,
+      "taxiFare": 25020,
       "fuelPrice": 3106,
-      "departureTime": "2026-09-11T06:59:36",
+      "departureTime": "2026-09-14T06:59:18",
       "sections": [
         {
           "name": "동수원로",
@@ -97,14 +33,78 @@
           "distanceKm": 2.6,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 26
+          "speedKmh": 25
         },
         {
           "name": "석성로",
           "distanceKm": 10.5,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 44
+          "speedKmh": 42
+        }
+      ]
+    },
+    "trafast": {
+      "label": "실시간 빠른길",
+      "distanceKm": 26.8,
+      "durationMin": 45,
+      "tollFare": 1360,
+      "taxiFare": 27920,
+      "fuelPrice": 3558,
+      "departureTime": "2026-09-14T06:59:19",
+      "sections": [
+        {
+          "name": "동수원고가도로",
+          "distanceKm": 1.4,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 51
+        },
+        {
+          "name": "창룡대로",
+          "distanceKm": 1.7,
+          "congestionCode": 2,
+          "congestion": "서행",
+          "speedKmh": 17
+        },
+        {
+          "name": "영동고속도로",
+          "distanceKm": 17.5,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 51
+        }
+      ]
+    },
+    "traavoidtoll": {
+      "label": "무료도로 우선",
+      "distanceKm": 23.4,
+      "durationMin": 40.9,
+      "tollFare": 0,
+      "taxiFare": 25020,
+      "fuelPrice": 3106,
+      "departureTime": "2026-09-14T06:59:21",
+      "sections": [
+        {
+          "name": "동수원로",
+          "distanceKm": 1.5,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 35
+        },
+        {
+          "name": "광교중앙로",
+          "distanceKm": 2.6,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 25
+        },
+        {
+          "name": "석성로",
+          "distanceKm": 10.5,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 42
         }
       ]
     }
