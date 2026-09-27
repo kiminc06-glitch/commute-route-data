@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "checkedAtKST": "2026. 09. 25. 06:59:17",
+  "checkedAtKST": "2026. 09. 28. 07:00:06",
   "origin": {
     "name": "권광로123번길 46",
     "longitude": 127.0282599,
@@ -14,97 +14,97 @@
   "routes": {
     "traoptimal": {
       "label": "실시간 최적경로",
-      "distanceKm": 26.5,
-      "durationMin": 34.5,
+      "distanceKm": 23.4,
+      "durationMin": 37.4,
       "tollFare": 0,
-      "taxiFare": 26880,
-      "fuelPrice": 3516,
-      "departureTime": "2026-09-25T06:59:15",
+      "taxiFare": 24520,
+      "fuelPrice": 3105,
+      "departureTime": "2026-09-28T07:00:03",
       "sections": [
         {
-          "name": "권광로",
-          "distanceKm": 1.8,
+          "name": "동수원로",
+          "distanceKm": 1.5,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 31
+          "speedKmh": 38
         },
         {
-          "name": "영동고속도로",
-          "distanceKm": 14.1,
+          "name": "광교중앙로",
+          "distanceKm": 2.6,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 61
+          "speedKmh": 27
         },
         {
-          "name": "수도권제2순환고속도로(화성-광주)",
-          "distanceKm": 4.1,
+          "name": "석성로",
+          "distanceKm": 10.5,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 61
+          "speedKmh": 45
         }
       ]
     },
     "trafast": {
       "label": "실시간 빠른길",
-      "distanceKm": 26.5,
-      "durationMin": 34.5,
-      "tollFare": 0,
-      "taxiFare": 26880,
-      "fuelPrice": 3516,
-      "departureTime": "2026-09-25T06:59:16",
+      "distanceKm": 26.7,
+      "durationMin": 37.9,
+      "tollFare": 1360,
+      "taxiFare": 26620,
+      "fuelPrice": 3537,
+      "departureTime": "2026-09-28T07:00:04",
       "sections": [
         {
-          "name": "권광로",
-          "distanceKm": 1.8,
+          "name": "동수원고가도로",
+          "distanceKm": 1.4,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 31
+          "speedKmh": 55
+        },
+        {
+          "name": "창룡대로",
+          "distanceKm": 1.7,
+          "congestionCode": 2,
+          "congestion": "서행",
+          "speedKmh": 24
         },
         {
           "name": "영동고속도로",
-          "distanceKm": 14.1,
+          "distanceKm": 17.5,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 61
-        },
-        {
-          "name": "수도권제2순환고속도로(화성-광주)",
-          "distanceKm": 4.1,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 61
+          "speedKmh": 60
         }
       ]
     },
     "traavoidtoll": {
       "label": "무료도로 우선",
-      "distanceKm": 26.5,
-      "durationMin": 34.5,
+      "distanceKm": 23.4,
+      "durationMin": 37.3,
       "tollFare": 0,
-      "taxiFare": 26880,
-      "fuelPrice": 3516,
-      "departureTime": "2026-09-25T06:59:17",
+      "taxiFare": 24520,
+      "fuelPrice": 3105,
+      "departureTime": "2026-09-28T07:00:05",
       "sections": [
         {
-          "name": "권광로",
-          "distanceKm": 1.8,
+          "name": "동수원로",
+          "distanceKm": 1.5,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 31
+          "speedKmh": 39
         },
         {
-          "name": "영동고속도로",
-          "distanceKm": 14.1,
+          "name": "광교중앙로",
+          "distanceKm": 2.6,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 61
+          "speedKmh": 27
         },
         {
-          "name": "수도권제2순환고속도로(화성-광주)",
-          "distanceKm": 4.1,
+          "name": "석성로",
+          "distanceKm": 10.5,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 61
+          "speedKmh": 45
         }
       ]
     }
