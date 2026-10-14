@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "checkedAtKST": "2026. 10. 14. 06:59:53",
+  "checkedAtKST": "2026. 10. 15. 06:59:49",
   "origin": {
     "name": "권광로123번길 46",
     "longitude": 127.0282599,
@@ -14,83 +14,19 @@
   "routes": {
     "traoptimal": {
       "label": "실시간 최적경로",
-      "distanceKm": 27.9,
-      "durationMin": 41.4,
-      "tollFare": 1360,
-      "taxiFare": 28800,
-      "fuelPrice": 3699,
-      "departureTime": "2026-10-14T06:59:49",
-      "sections": [
-        {
-          "name": "창룡대로",
-          "distanceKm": 1.7,
-          "congestionCode": 2,
-          "congestion": "서행",
-          "speedKmh": 16
-        },
-        {
-          "name": "영동고속도로",
-          "distanceKm": 17.5,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 58
-        },
-        {
-          "name": "백옥대로",
-          "distanceKm": 1.7,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 64
-        }
-      ]
-    },
-    "trafast": {
-      "label": "실시간 빠른길",
-      "distanceKm": 26.7,
-      "durationMin": 41.1,
-      "tollFare": 1360,
-      "taxiFare": 27620,
-      "fuelPrice": 3533,
-      "departureTime": "2026-10-14T06:59:51",
-      "sections": [
-        {
-          "name": "동수원고가도로",
-          "distanceKm": 1.4,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 52
-        },
-        {
-          "name": "창룡대로",
-          "distanceKm": 1.7,
-          "congestionCode": 2,
-          "congestion": "서행",
-          "speedKmh": 17
-        },
-        {
-          "name": "영동고속도로",
-          "distanceKm": 17.5,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 59
-        }
-      ]
-    },
-    "traavoidtoll": {
-      "label": "무료도로 우선",
       "distanceKm": 23.4,
-      "durationMin": 40.5,
+      "durationMin": 39,
       "tollFare": 0,
-      "taxiFare": 24620,
+      "taxiFare": 24820,
       "fuelPrice": 3101,
-      "departureTime": "2026-10-14T06:59:52",
+      "departureTime": "2026-10-15T06:59:47",
       "sections": [
         {
           "name": "동수원로",
           "distanceKm": 1.5,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 33
+          "speedKmh": 35
         },
         {
           "name": "광교중앙로",
@@ -104,7 +40,71 @@
           "distanceKm": 10.5,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 41
+          "speedKmh": 44
+        }
+      ]
+    },
+    "trafast": {
+      "label": "실시간 빠른길",
+      "distanceKm": 26.7,
+      "durationMin": 39.1,
+      "tollFare": 1200,
+      "taxiFare": 26800,
+      "fuelPrice": 3538,
+      "departureTime": "2026-10-15T06:59:48",
+      "sections": [
+        {
+          "name": "영동고속도로",
+          "distanceKm": 12.9,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 64
+        },
+        {
+          "name": "마성로",
+          "distanceKm": 3.2,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 56
+        },
+        {
+          "name": "에버랜드로",
+          "distanceKm": 1.9,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 26
+        }
+      ]
+    },
+    "traavoidtoll": {
+      "label": "무료도로 우선",
+      "distanceKm": 23.4,
+      "durationMin": 38.9,
+      "tollFare": 0,
+      "taxiFare": 24820,
+      "fuelPrice": 3101,
+      "departureTime": "2026-10-15T06:59:49",
+      "sections": [
+        {
+          "name": "동수원로",
+          "distanceKm": 1.5,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 35
+        },
+        {
+          "name": "광교중앙로",
+          "distanceKm": 2.5,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 26
+        },
+        {
+          "name": "석성로",
+          "distanceKm": 10.5,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 44
         }
       ]
     }
