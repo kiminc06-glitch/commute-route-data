@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "checkedAtKST": "2026. 10. 23. 06:59:57",
+  "checkedAtKST": "2026. 10. 26. 06:59:46",
   "origin": {
     "name": "권광로123번길 46",
     "longitude": 127.0282599,
@@ -14,76 +14,12 @@
   "routes": {
     "traoptimal": {
       "label": "실시간 최적경로",
-      "distanceKm": 26.8,
-      "durationMin": 38.1,
-      "tollFare": 1360,
-      "taxiFare": 26920,
-      "fuelPrice": 3552,
-      "departureTime": "2026-10-23T06:59:55",
-      "sections": [
-        {
-          "name": "동수원고가도로",
-          "distanceKm": 1.4,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 53
-        },
-        {
-          "name": "창룡대로",
-          "distanceKm": 1.7,
-          "congestionCode": 2,
-          "congestion": "서행",
-          "speedKmh": 21
-        },
-        {
-          "name": "영동고속도로",
-          "distanceKm": 17.5,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 64
-        }
-      ]
-    },
-    "trafast": {
-      "label": "실시간 빠른길",
-      "distanceKm": 26.8,
-      "durationMin": 38.1,
-      "tollFare": 1360,
-      "taxiFare": 26920,
-      "fuelPrice": 3552,
-      "departureTime": "2026-10-23T06:59:56",
-      "sections": [
-        {
-          "name": "동수원고가도로",
-          "distanceKm": 1.4,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 53
-        },
-        {
-          "name": "창룡대로",
-          "distanceKm": 1.7,
-          "congestionCode": 2,
-          "congestion": "서행",
-          "speedKmh": 21
-        },
-        {
-          "name": "영동고속도로",
-          "distanceKm": 17.5,
-          "congestionCode": 1,
-          "congestion": "원활",
-          "speedKmh": 64
-        }
-      ]
-    },
-    "traavoidtoll": {
-      "label": "무료도로 우선",
-      "distanceKm": 23.4,
-      "durationMin": 38.9,
+      "distanceKm": 23.3,
+      "durationMin": 41.6,
       "tollFare": 0,
-      "taxiFare": 24620,
-      "fuelPrice": 3100,
-      "departureTime": "2026-10-23T06:59:57",
+      "taxiFare": 24800,
+      "fuelPrice": 3082,
+      "departureTime": "2026-10-26T06:59:44",
       "sections": [
         {
           "name": "동수원로",
@@ -97,14 +33,78 @@
           "distanceKm": 2.5,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 28
+          "speedKmh": 25
         },
         {
           "name": "석성로",
-          "distanceKm": 10.5,
+          "distanceKm": 10,
           "congestionCode": 1,
           "congestion": "원활",
-          "speedKmh": 42
+          "speedKmh": 39
+        }
+      ]
+    },
+    "trafast": {
+      "label": "실시간 빠른길",
+      "distanceKm": 26.1,
+      "durationMin": 47.6,
+      "tollFare": 2100,
+      "taxiFare": 28380,
+      "fuelPrice": 3460,
+      "departureTime": "2026-10-26T06:59:45",
+      "sections": [
+        {
+          "name": "광교로",
+          "distanceKm": 1.7,
+          "congestionCode": 2,
+          "congestion": "서행",
+          "speedKmh": 12
+        },
+        {
+          "name": "영동고속도로",
+          "distanceKm": 14.1,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 50
+        },
+        {
+          "name": "수도권제2순환고속도로(화성-광주)",
+          "distanceKm": 4.1,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 47
+        }
+      ]
+    },
+    "traavoidtoll": {
+      "label": "무료도로 우선",
+      "distanceKm": 23.3,
+      "durationMin": 42.1,
+      "tollFare": 0,
+      "taxiFare": 25100,
+      "fuelPrice": 3082,
+      "departureTime": "2026-10-26T06:59:46",
+      "sections": [
+        {
+          "name": "동수원로",
+          "distanceKm": 1.5,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 36
+        },
+        {
+          "name": "광교중앙로",
+          "distanceKm": 2.5,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 25
+        },
+        {
+          "name": "석성로",
+          "distanceKm": 10,
+          "congestionCode": 1,
+          "congestion": "원활",
+          "speedKmh": 37
         }
       ]
     }
